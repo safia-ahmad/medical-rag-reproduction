@@ -1,0 +1,19 @@
+{
+  "question": "What gene causes Alzheimer's disease?",
+  "retriever": "MedCPT",
+  "top_k": 5,
+  "results": [
+    {
+      "PMID": 123456,
+      "score": 0.89
+    },
+    {
+      "PMID": 654321,
+      "score": 0.86
+    },
+    {
+      "PMID": 987654,
+      "score": 0.82
+    }
+  ]
+}
