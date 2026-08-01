@@ -1,0 +1,10 @@
+{
+  "question": "What gene causes Alzheimer's disease?",
+  "model": "Gemini",
+  "answer": "Mutations in APP, PSEN1, and PSEN2 are associated with familial Alzheimer's disease. APOE ε4 is a major genetic risk factor for late-onset Alzheimer's disease.",
+  "retrieved_PMIDs": [
+    123456,
+    654321,
+    987654
+  ]
+}
