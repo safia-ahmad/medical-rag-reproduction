@@ -1,0 +1,10 @@
+torch
+transformers
+faiss-cpu
+rank-bm25
+sentencepiece
+numpy
+scikit-learn
+google-generativeai
+datasets
+tqdm
